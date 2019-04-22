@@ -1,5 +1,5 @@
 # Columbia_IntroToWebscraping
-An intro to the BeautifulSoup package in Python
+An intro to the BeautifulSoup package in Python.
 
 For this workshop, you will need:
  - Basic knowledge of Python
